@@ -1,7 +1,4 @@
 # TakePlace
 
-- Créer un nouveau dossier nommé TakePlace
-- Télécharger les 5 fichiers/dossiers contenus dans ce git dans ce dossier "TakePlace"
-- Lancer TakePlace.exe
-
-NOTE : Le jeu est prévu pour une résolution d'écran 1920 x 1080
+It is a game developed in C# using Unity during 1.5 months.
+The purpose was to create a serious game which teaches agoraphobia to players.
